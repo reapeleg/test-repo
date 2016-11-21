@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Oracle_DS">
+  <ConnectionProperties>
+    <Extension>ORACLE</Extension>
+    <ConnectString>Data Source=sed;Unicode=True</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d6f537eb-2363-4ab4-b643-d6c96cb3a7fb</DataSourceID>
+</RptDataSource>
